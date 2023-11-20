@@ -28,6 +28,7 @@
 
 				Console.WriteLine(sentence);
 				Console.WriteLine("Click [Enter] to generate a new one.");
+				Console.WriteLine("Hello from Branch One");
 
 				Console.ReadLine();
 			}
